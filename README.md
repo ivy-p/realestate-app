@@ -1,38 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Club Wealth Assessment
 
-First, run the development server:
+## Ivy Patterson
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+***You just received a ticket for your 2 week sprint that includes features that our clients have been requesting!***
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Requirements
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Our clients have asked for the ability to search through compelling data
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Our clients would like to be able to sort the data
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Not all data is created equal. Our clients would like to be able to remove results they find distasteful
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Finally, these clients are a stickler for beautiful UI. Dazzle them with your css acumen
+ 
 
-## Learn More
+#### Bonus
 
-To learn more about Next.js, take a look at the following resources:
+- Provided multiple ways of viewing the data
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Display multiple pages of results
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Use more than one api
 
-## Deploy on Vercel
+### Overview
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I sourced this project from [Adrian Hajdin](https://github.com/adrianhajdin), as I thought a real-estate app would be a good fit for this assessment. 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Users can sort through homes for sale and for rent, as well as filter their search results based on the criteria they are looking for.
+
+While this project does not enable users to delete results they dislike, I will include a link [here](https://lqp2ic.csb.app/) to a previous project in which I employed this feature.
+
+I had a blast building this project, and would love the opportunity to get to know more about Club Wealth's tech team. 
+
+#### Ivy Patterson
+
+[ivypatterson.com](https://www.ivypatterson.com)
+
+[LinkedIn](https://www.linkedin.com/in/ivy-patterson)
+
+[GitHub](https://www.github.com/ivy-p)
